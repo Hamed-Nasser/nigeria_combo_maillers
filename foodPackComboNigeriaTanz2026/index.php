@@ -164,7 +164,7 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="line-height: 140%;"><span data-metadata="&lt;!--(figmeta)eyJmaWxlS2V5IjoiRXJiSEtMVFRybmtQNTNtWjNZZ0xlRyIsInBhc3RlSUQiOjEwOTI5OTQxNjYsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)--&gt;" style="line-height: 19.6px;"></span>To KAO : The Sales / Marketing / Exports Manager / Business Developer</p>
 <p style="line-height: 140%;"> </p>
-<p style="line-height: 140%;"><span style="line-height: 19.6px;">We cordially invite you to particpate at <b style="font-style: italic;">Food Pack Africa  Combo 2026, </b> Intl Trade Shows happening in East Africa in 2026.</span><span style="line-height: 19.6px;"></span><span style="line-height: 19.6px;"></span></p>
+<p style="line-height: 140%;"><span style="line-height: 19.6px;">We cordially invite you to particpate at <b style="font-style: italic;">Food Pack Africa  Combo 2026, </b> Intl Trade Shows happening in Africa in 2026.</span><span style="line-height: 19.6px;"></span><span style="line-height: 19.6px;"></span></p>
   </div>
 
       </td>
