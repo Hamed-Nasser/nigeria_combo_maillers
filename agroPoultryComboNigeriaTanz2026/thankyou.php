@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['email'])) {
 
     // Prepare email
     $to = "info@mxmexhibitions.com, mud@african-fairs.com, sherkhan@mxmexhibitions.com, sher@african-fairs.com";
-    $subject = "Agro and Poultry - kenya - nigeria combo-offer  2025 -Email Matter";
+    $subject = "Agro and Poultry - Tanzania- Nigeria combo-offer  2026 -Email Matter";
     $todayis = date("l, F j, Y, g:i a");
     $message = "
         $todayis [EST]
@@ -30,7 +30,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['email'])) {
         Interested In : $option
     ";
     $headers = [
-        'From' => 'mud@african-fairs.com',
+        'From' => 'info@afro-fairs.com',
         'Reply-To' => $email,
         'Content-Type' => 'text/plain; charset=UTF-8',
     ];
@@ -55,7 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['email'])) {
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Agro and Poultry Combo 2025</title>
+<title>Agro and Poultry Combo 2026</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" >
 <link rel="stylesheet" type="text/css" href="styles.css" >
 <link rel="stylesheet" href="general_form.css">

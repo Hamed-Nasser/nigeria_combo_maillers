@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Paper and Tissue Africa 2025</title>
+<title>Paper and Tissue Africa 2026</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" >
 <link rel="stylesheet" type="text/css" href="styles.css" >
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
@@ -64,8 +64,8 @@ body {
         <select class="form-control" name="option" required>
           <option value="" disabled selected>Please select an Option</option>
           <option value="Nigeria">I am interested in Nigeria</option>
-          <option value="kenya">I am interested in Kenya</option>
-          <option value="Both">I am interested in Nigeria | Kenya |  Both</option>
+          <option value="kenya">I am interested in Tanzania</option>
+          <option value="Both">I am interested in Nigeria | Tanzania |  Both</option>
         </select>
       </div>
     

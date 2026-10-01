@@ -13,7 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="x-apple-disable-message-reformatting">
   <!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]-->
-  <title>Agro and Poultry Combo 2025</title>
+  <title>Agro and Poultry Combo 2026</title>
   
     <style type="text/css">
       @media only screen and (min-width: 620px) {
@@ -164,7 +164,7 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <p style="line-height: 140%;"><span data-metadata="&lt;!--(figmeta)eyJmaWxlS2V5IjoiRXJiSEtMVFRybmtQNTNtWjNZZ0xlRyIsInBhc3RlSUQiOjEwOTI5OTQxNjYsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)--&gt;" style="line-height: 19.6px;"></span>To KAO : The Sales / Marketing / Exports Manager / Business Developer</p>
 <p style="line-height: 140%;"> </p>
-<p style="line-height: 140%;"><span style="line-height: 19.6px;">We cordially invite you to particpate at <b style="font-style: italic;">Agro and Poultry Africa 2025</b>, Intl Trade Shows happening in East Africa in 2025 on Agriculture, Aquaculture, Dairy, Irrigation, Poultry & Meat, Tractors, Veterinary e.t.c</span><span style="line-height: 19.6px;"></span><span style="line-height: 19.6px;"></span></p>
+<p style="line-height: 140%;"><span style="line-height: 19.6px;">We cordially invite you to particpate at <b style="font-style: italic;">Agro and Poultry Africa 2026</b>, Intl Trade Shows happening in East Africa in 2026 on Agriculture, Aquaculture, Dairy, Irrigation, Poultry & Meat, Tractors, Veterinary e.t.c</span><span style="line-height: 19.6px;"></span><span style="line-height: 19.6px;"></span></p>
   </div>
 
       </td>
@@ -235,8 +235,8 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <ul>
 <h3 style="line-height: 19.6px;">Date</h3>
-<h4 style="line-height: 19.6px;">21 - 23 August 2025</h4>
-<h4 style="line-height: 19.6px;">19 - 20 November 2025</h4>
+<h4 style="line-height: 19.6px;">27 - 29 January 2027</h4>
+<h4 style="line-height: 19.6px;">10 - 12 December 2026</h4>
 </ul>
   </div>
 
@@ -262,7 +262,7 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <ul>
 <h3 style="line-height: 19.6px;">Country</h3>
-<h4 style="line-height: 19.6px;">Kenya </h4>
+<h4 style="line-height: 19.6px;">Tanzania </h4>
 <h4 style="line-height: 19.6px;">Nigeria </h4>
 </ul>
   </div>
@@ -289,8 +289,8 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
   <div style="font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;">
     <ul>
 <h3 style="line-height: 19.6px;">Venue</h3>
-<h4 style="line-height: 19.6px;">Sarit Expo Center, Nairobi</h4>
-<h4 style="line-height: 19.6px;">Landmark Convention Center, Lagos</h4>
+<h4 style="line-height: 19.6px;">Daimond Jubilee Hall, Dar-es-Salaam</h4>
+<h4 style="line-height: 19.6px;">D'Podium International Event Center, Lagos</h4>
 </ul>
   </div>
 
