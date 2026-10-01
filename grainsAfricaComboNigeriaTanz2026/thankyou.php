@@ -16,7 +16,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['email'])) {
     }
 
     // Prepare email
-    $to = "info@mxmexhibitions.com, mud@african-fairs.com, sherkhan@mxmexhibitions.com, sher@african-fairs.com";
+    $to = "info@mxmexhibitions.com, mud@african-fairs.com, sher@african-fairs.com";
     $subject = "grains Africa - Tanzania- Nigeria combo-offer 2026 -Email Matter";
     $todayis = date("l, F j, Y, g:i a");
     $message = "
